@@ -1,7 +1,7 @@
 # To-Do List API com Spring Boot
 
-Este projeto é uma aplicação **To-Do List** desenvolvida com **Spring Boot**, que fornece uma API RESTful para gerenciar tarefas.
-O objetivo é permitir a criação, consulta, atualização e remoção de tarefas através de endpoints HTTP. A aplicação é ideal para quem está iniciando com o desenvolvimento de APIs utilizando o ecossistema Spring.
+<p>Este projeto é uma aplicação **To-Do List** desenvolvida com **Spring Boot**, que fornece uma API RESTful para gerenciar tarefas.
+O objetivo é permitir a criação, consulta, atualização e remoção de tarefas através de endpoints HTTP. A aplicação é ideal para quem está iniciando com o desenvolvimento de APIs utilizando o ecossistema Spring</p>.
 ---
 
 ## 📋 Conhecendo o Projeto
